@@ -1,0 +1,131 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+html, body {
+    color: #5a5a5a;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+#app {
+    height: 100%;
+    position: relative;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+.marketing {
+
+    padding-bottom: 150px;
+
+    margin-top: 50px;
+
+}
+
+.marketing .col-lg-4 {
+    text-align: center;
+}
+
+.marketing h2 {
+    font-weight: normal;
+}
+
+.marketing .col-lg-4 p {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/* CUSTOM HEADER
+-------------------------------------------------- */
+header {
+    background-color: #999999;
+    padding: 20px 0;
+    color: white;
+}
+
+header .row {
+    margin: 0 auto;
+}
+
+/* MODAL
+-------------------------------------------------- */
+.modal {
+    text-align: center;
+    padding: 0 !important;
+}
+
+.modal:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.modal-title {
+    margin: 8px;
+    font-size: 24px;
+}
+
+/* CUSTOM FOOTER
+-------------------------------------------------- */
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+    vertical-align: bottom;
+    background-color: #999999;
+    padding: 20px 0;
+    color: white;
+}
+
+footer .row {
+    margin: 0 auto;
+}
+
+footer img {
+    vertical-align: top;
+    width: 30%;
+}
+
+footer span {
+    margin: 8px;
+}
+
+footer .row .col-lg-4 {
+    text-align: right;
+}
+
+/* CUSTOM
+-------------------------------------------------- */
+.bold {
+    font-weight: bold;
+
+}
+
+.lime {
+    color: #9aea00;
+}
+/* CUSTOM paragraph
+-------------------------------------------------- */
+.paragraph {
+    padding-bottom: 15px;
+    width: 100%;
+}
+
+.paragraph .col-lg-4 {
+    vertical-align: bottom;
+}
