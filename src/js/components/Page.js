@@ -25,7 +25,7 @@ export default class Page extends React.Component {
                         title="JavaScript"
                         sentences={[
                             "Sustainable knowledge of Core JS",
-                            "Working with and improving in JS since Dec 2014.",
+                            "Working with and improving in JS since Dec 2014",
                             "Books: \"JavaScript the good parts\", \"JavaScript. The Definitive Guide\""
                         ]}
                     />
@@ -34,7 +34,7 @@ export default class Page extends React.Component {
                         image="https://scontent.xx.fbcdn.net/v/t34.0-0/p280x280/18136594_10212692166324543_1620243337_n.png?_nc_ad=z-m&oh=2a49de52817d2ee57e3a75088b95936e&oe=58FFF27B"
                         title="React.js, Node.js and Angular.js"
                         sentences={[
-                            "Confident user of Node.js and React.js.",
+                            "Confident user of Node.js and React.js",
                             "Basic knowledge of Angular"
                         ]}
                     />
@@ -51,8 +51,8 @@ export default class Page extends React.Component {
                         sentences={[
                             "Together with my team, I developed an online web service for data visualization",
                             "I learned JavaScript from scratch to the level required for the project in a short time",
-                            "We implemented modular architecture and developed our own framework.",
-                            "Technologies I used: .NET, Angular.js, Highcharts.js,",
+                            "We implemented modular architecture and developed our own framework",
+                            "Technologies I used: .NET, Angular.js, Highcharts.js",
                             <a href="http://ita-dashboards.apphb.com/" role="button">View details »</a>
                         ]}
                     />
@@ -85,7 +85,7 @@ export default class Page extends React.Component {
                         title="Warsaw University of Technology"
                         sentences={[
                             "M.Sc in Computer Science",
-                            "Master Thesis: Developing a VR application."
+                            "Master Thesis: Developing a VR application"
                         ]}
                     />
                     <Paragraph
@@ -93,15 +93,15 @@ export default class Page extends React.Component {
                         title="Ivan Franko National University of Lviv"
                         sentences={[
                             "B.Sc in Applied Mathematics and Informatics",
-                            "Bachelor Thesis: Computation of Periodic States of Nonlinear Electric Schemes.",
-                            "Presented a project within a course of Linear Integration Equations on international conference at our university in English"
+                            "Bachelor Thesis: Computation of Periodic States of Nonlinear Electric Schemes",
+                            "One of the few, presented a project in English on university conference. The project was prepared within Linear Integration Equations course"
                         ]}
                     />
                     <Paragraph
                         image="https://scontent.xx.fbcdn.net/v/t34.0-12/18155405_1335135703239490_99411699_n.png?_nc_ad=z-m&oh=bec9118732e7e61924d798ed89000549&oe=590035D6"
                         title="Lviv Physics and Mathematics Lyceum"
                         sentences={[
-                            "High score in mathematics final test (195/200) ."
+                            "High score in mathematics final test (195/200)"
                         ]}
                     />
                 </div>,
